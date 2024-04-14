@@ -20,20 +20,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sonika-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sonika-m" height="30" width="40" /></a>
-<a href="https://dev.to/sonika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sonika" height="30" width="40" /></a>
-<a href="https://twitter.com/sonika_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonika_02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonika-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonika-m" height="30" width="40" /></a>
-<a href="https://kaggle.com/sonika2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sonika2" height="30" width="40" /></a>
-<a href="https://fb.com/sonika.madhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonika.madhan" height="30" width="40" /></a>
-<a href="https://instagram.com/sonika_uppalapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonika_madhan" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sonika-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonika-m" height="30" width="40" /></a>
+  <a href="https://fb.com/sonika.madhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonika.madhan" height="30" width="40" /></a>
+<a href="https://instagram.com/sonika_uppalapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonika_uppalapati" height="30" width="40" /></a>
+  <a href="https://twitter.com/sonika_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonika_02" height="30" width="40" /></a>
+  <a href="https://kaggle.com/sonika2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sonika2" height="30" width="40" /></a>
 <a href="https://dribbble.com/sonika-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sonika-m" height="30" width="40" /></a>
 <a href="https://www.behance.net/sonika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sonika" height="30" width="40" /></a>
+  <a href="https://discord.com/users/755656428848545881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sonika#4666" height="30" width="40" /></a>
+<a href="https://codepen.io/sonika-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sonika-m" height="30" width="40" /></a>
+<a href="https://dev.to/sonika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sonika" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sonika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sonika" height="30" width="40" /></a>
 <a href="https://medium.com/@sonika_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sonika_m" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sonika_2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sonika_2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sonika_madhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonika_madhan" height="30" width="40" /></a>
-<a href="https://discord.gg/sonika#4666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sonika#4666" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
