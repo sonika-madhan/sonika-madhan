@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Front End Development**
 
-- 📫 How to reach me **sonika.madhanagopal@gmail.com**
+- 📫 How to reach me **sonika.uppalapati@gmail.com**
 
 - ⚡ Fun fact **don't make your life funny**
 
