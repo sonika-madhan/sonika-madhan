@@ -78,9 +78,9 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonika-madhan&show_icons=true&locale=en&layout=compact" alt="sonika-madhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonika-uppalapati&show_icons=true&locale=en&layout=compact" alt="sonika-uppalapati" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonika-madhan&show_icons=true&locale=en" alt="sonika-madhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonika-uppalapati&show_icons=true&locale=en" alt="sonika-uppalapati" /></p>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonika-madhan&" alt="sonika-madhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonika-uppalapati&" alt="sonika-uppalapati" /></p>
